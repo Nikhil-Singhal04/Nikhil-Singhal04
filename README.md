@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./header.svg" alt="Nikhil Singhal | Cloud & DevOps Engineer">
+</p>
 ## 👋 Hi, I'm Nikhil
 
 - 🚀 DevOps & Cloud Enthusiast  
@@ -9,6 +12,4 @@
 - Backend: Node.js · Express.js  
 - Languages: C · C++ · Java · JavaScript · Python
 
-<p align="center">
-  <img src="./header.svg" alt="Nikhil Singhal | Cloud & DevOps Engineer">
-</p>
+
