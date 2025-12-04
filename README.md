@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./header.svg" alt="Nikhil Singhal | Cloud & DevOps Engineer">
 </p>
-## 👋 Hi, I'm Nikhil
+👋 Hi, I'm Nikhil
 
 - 🚀 DevOps & Cloud Enthusiast  
 - 🧩 Love DSA, Linux, and Automation  
